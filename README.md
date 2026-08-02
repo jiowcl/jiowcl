@@ -7,7 +7,7 @@
 | Project | Description |
 | --- | --- |
 | [Vyrn](https://github.com/jiowcl/Vyrn) | A Modern Programming Language Inherited from LUA |
-| [Zeron](https://github.com/jiowcl/Zeron) | A lightweight Windows Agent Platform Suitable for SMB/internal network IT/developer-built Automation Tools |
+| [Zeron](https://github.com/jiowcl/Zeron) | Fast, lightweight, and cloud-free Windows remote automation via NetMQ & JSON-RPC |
 | [TinyGomoku](https://github.com/jiowcl/TinyGomoku) | A Tiny Gomoku Game that allows LAN Multiplayer |
 | [TinyTetris](https://github.com/jiowcl/TinyTetris) | A Classic Tetris Puzzle Game |
 | [PureBasicZMQ](https://github.com/jiowcl/PureBasicZMQ) | ZMQ Wrapper for PureBasic Programming Language |
