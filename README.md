@@ -6,7 +6,7 @@
 
 | Project | Description |
 | --- | --- |
-| [Vyrn](https://github.com/jiowcl/Vyrn) | A Modern Programming Language Inherited from LUA |
+| [Vyrn](https://github.com/jiowcl/Vyrn) | Vyrn — A Concise, Modern Lua-inspired Programming Language for fast Embedded Scripting |
 | [Zeron](https://github.com/jiowcl/Zeron) | Zeron — Fast, lightweight, and cloud-free Windows remote automation via NetMQ & JSON-RPC |
 | [TinyGomoku](https://github.com/jiowcl/TinyGomoku) | A Tiny Gomoku Game that allows LAN Multiplayer |
 | [TinyTetris](https://github.com/jiowcl/TinyTetris) | A Classic Tetris Puzzle Game |
