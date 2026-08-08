@@ -12,8 +12,8 @@
 | [TinyGomoku](https://github.com/jiowcl/TinyGomoku) | A Tiny Gomoku Game that allows LAN Multiplayer |
 | [TinyTetris](https://github.com/jiowcl/TinyTetris) | A Classic Tetris Puzzle Game |
 | [PureBasicZMQ](https://github.com/jiowcl/PureBasicZMQ) | ZMQ Wrapper for PureBasic Programming Language |
-| [PureBasicNanoMsg](https://github.com/jiowcl/PureBasicNanoMsg) | Nanomsg Wrapper for PureBasic Programming Language |
+| [PureBasicNanoMsg](https://github.com/jiowcl/PureBasicNanoMsg) | Nanomsg/NNG Wrapper for PureBasic Programming Language |
 | [FreeBasicZMQ](https://github.com/jiowcl/FreeBasicZMQ) | ZMQ Wrapper for FreeBasic Programming Language |
-| [FreeBasicNanoMsg](https://github.com/jiowcl/FreeBasicNanoMsg) | Nanomsg Wrapper for FreeBasic Programming Language |
+| [FreeBasicNanoMsg](https://github.com/jiowcl/FreeBasicNanoMsg) | Nanomsg/NNG Wrapper for FreeBasic Programming Language |
 | [ThinBasic.NET](https://github.com/jiowcl/ThinBasic.NET) | .Net Wrapper for ThinBasic Programming Language |
 | [OxygenBasic.NET](https://github.com/jiowcl/OxygenBasic.NET) | .Net Wrapper for OxygenBasic Programming Language |
