@@ -16,4 +16,5 @@
 | [FreeBasicZMQ](https://github.com/jiowcl/FreeBasicZMQ) | ZMQ Wrapper for FreeBasic Programming Language |
 | [FreeBasicNanoMsg](https://github.com/jiowcl/FreeBasicNanoMsg) | Nanomsg/NNG Wrapper for FreeBasic Programming Language |
 | [ThinBasic.NET](https://github.com/jiowcl/ThinBasic.NET) | .Net Wrapper for ThinBasic Programming Language |
+| [ThinBasicZMQ](https://github.com/jiowcl/ThinBasicZMQ) | ZMQ Wrapper for ThinBasic Programming Language |
 | [OxygenBasic.NET](https://github.com/jiowcl/OxygenBasic.NET) | .Net Wrapper for OxygenBasic Programming Language |
