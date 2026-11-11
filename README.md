@@ -6,7 +6,7 @@
 
 | Project | Description |
 | --- | --- |
-| [Vyrn](https://github.com/jiowcl/Vyrn) | Vyrn — A Concise, Modern Lua-inspired Programming Language for fast Embedded Scripting |
+| [Vyrn](https://github.com/jiowcl/Vyrn) | Vyrn — A Concise, Modern Lua-inspired Programming Language for fast Embedded Scripting, with optional native packaging (Standalone EXE or Compile-to-C) |
 | [Zeron](https://github.com/jiowcl/Zeron) | Zeron — Fast, lightweight, and cloud-free Windows remote automation via NetMQ & JSON-RPC |
 | [CometTextel](https://github.com/jiowcl/CometTextel) | CometTextel — A Modern C++ Library for GSM SMS over Serial |
 | [TinyGomoku](https://github.com/jiowcl/TinyGomoku) | A Tiny Gomoku Game that allows LAN Multiplayer |
