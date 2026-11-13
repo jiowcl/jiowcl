@@ -23,3 +23,4 @@
 | [FreeBasicZMQ](https://github.com/jiowcl/FreeBasicZMQ) | ZMQ Wrapper for FreeBasic Programming Language |
 | [FreeBasicNanoMsg](https://github.com/jiowcl/FreeBasicNanoMsg) | Nanomsg/NNG Wrapper for FreeBasic Programming Language |
 | [ThinBasicZMQ](https://github.com/jiowcl/ThinBasicZMQ) | ZMQ Wrapper for ThinBasic Programming Language |
+| [ThinBasicNanoMsg](https://github.com/jiowcl/ThinBasicNanoMsg) | Nanomsg/NNG Wrapper for ThinBasic Programming Language |
